@@ -1,7 +1,7 @@
 print("""*******************
 Faktoriyel Bulma Programı
 
-Programdan çıkmak için 'q' ya basın.
+Programdan çıkmak için 'q' ya bas.
 *******************""")
 while True:
     sayi =  input("Sayı:")
